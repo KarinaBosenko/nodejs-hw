@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaBosenko/nodejs-hw.git"
+  },
+  "keywords": [],
+  "author": "Karina Bosenko <karina.bosenko.10.10@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KarinaBosenko/nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/KarinaBosenko/nodejs-hw#readme"
+}
