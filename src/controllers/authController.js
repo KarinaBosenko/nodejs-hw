@@ -7,7 +7,7 @@ import fs from 'node:fs/promises';
 import { createSession, setSessionCookies } from '../services/auth.js';
 import { Session } from '../models/session.js';
 import { User } from '../models/user.js';
-import { sendMail } from '../utils/sendEmail.js';
+import { sendMail } from '../utils/sendMail.js';
 
 export const registerUser = async (req, res) => {
   const { email, password } = req.body;
